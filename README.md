@@ -3,7 +3,7 @@ The final assignment of the course "Tools for Data Science" from IBM. The Jupyte
 
 Project objectives:
 
-List popular languages for Data Science
-List popular libraries for Data Science
-Give examples of Data Science tools
-Show simple code examples
+- List popular languages for Data Science
+- List popular libraries for Data Science
+- Give examples of Data Science tools
+- Show simple code examples
